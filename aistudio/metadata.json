@@ -1,0 +1,7 @@
+{
+  "name": "The Vault: Anti-Deepfake Identity",
+  "description": "Multi-Factor Proof of Life authentication system preventing deepfakes in a synthetic world.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
